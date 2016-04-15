@@ -12,7 +12,7 @@ using namespace std;
 int main() {
 	
 	int a;
-	int quinta, resto, septima; /quinta parte, resto de division y septima parte
+	int quinta, resto, septima; //quinta parte, resto de division y septima parte
 	cout << "Ingrese un valor numerico" << endl;
 	cin >> a;
 
