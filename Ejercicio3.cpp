@@ -20,7 +20,9 @@ int main() {
 	resto = a % 5;
 	septima = quinta / 7;
 
-	cout << "Quinta parte: " << quinta << endl << "Resto de la division por 5: " << resto << endl << "Septima parte de la quinta parte: " << septima << endl;
+	cout << "Quinta parte: " << quinta << endl << "Resto de la division por 5: " << resto 		<< endl << "Septima parte de la quinta parte: " << septima << endl;
+
+	cout << "hello world";	
 
 	return 0;
 }
