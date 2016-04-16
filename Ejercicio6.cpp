@@ -9,10 +9,6 @@
 #include <iostream>
 using namespace std;
 
-// PROTOTIPOS
-void min(int,int,int);
-void max(int,int,int);
-
 int main() {
 	
 	int a, b, c;
